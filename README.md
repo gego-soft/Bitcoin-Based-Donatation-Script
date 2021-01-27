@@ -1,4 +1,4 @@
-# BitDonate.io
+# Bitcoin Based Donation Script
 Peer to Peer bitcoin donations system developed on Laravel PHP Framework. Inspired by MMM Help and TwinKas Matrix Auto-Recycler System
 
 # Features
